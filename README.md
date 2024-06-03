@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pavithran</h1>
 <h3 align="center">Full-Stack Web Application Developer</h3>
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started**:
 
 - 🧑🏼‍💻 I'm cooking somthing
 - 🌱 I’m currently learning Typescript, Go & more
