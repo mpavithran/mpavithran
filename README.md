@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pavithran</h1>
 <h3 align="center">Full-Stack Web Application Developer</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" />
+<img alt="Coder GIF" height=250 width=350 src="https://github.com/mpavithran/mpavithran/blob/main/assets/icons/coding-freak.gif" align="center" />
 
 **Here are some ideas to get you started**:
 
