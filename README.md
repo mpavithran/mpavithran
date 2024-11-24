@@ -1,12 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Pavithran</h1>
 <h3 align="center">Full-Stack Web Application Developer</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" />
 
 **Here are some ideas to get you started**:
 
 - 🧑🏼‍💻 I'm cooking somthing
 - 💻 Languages that I know are Javascript, Typescript and Go
 - 🤩 I'm good at ReactJS, NextJS, NodeJS, Go, MySQL, Postgresql, MongoDB, Prisma, Tailwindcss
-- 🚀 For deployment, I have experience in AWS EC2, Docker, Jenkins and Kubernetes
+- 🚀 For deployment, I have experience in AWS EC2, Vercel, Docker, Jenkins and Kubernetes
 - 🌱 I’m currently learning Rust, React-native, Electron, Tauri & more
 - 📫 How to reach me: mpavithran1998@gmail.com or <a target="_blank" class="z-20" href="https://www.linkedin.com/in/pavithran18">Connect via LinkedIn</a>
 <h3 align="left">Languages and Tools:</h3>
